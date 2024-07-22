@@ -1,0 +1,12 @@
+.formdiv{
+    background-color: rgb(18, 95, 95);
+    color: white;
+   overflow: hidden;
+    
+}
+.forminput{
+   margin-left: 20px;
+}
+.forminput input{
+    border: 2px solid black;
+}
